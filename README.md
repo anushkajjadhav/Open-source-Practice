@@ -32,7 +32,7 @@ flowchart LR
 - On the top right of the Readme file, click on the pencil icon to edit the file by **adding your name and your GitHub profile link to the section that matches your Initial in [this list](https://github.com/Girlscript-WOB/Open-source-Practice/blob/main/README.md#WoB24-Community). Make sure that your name is in alphabetical order.**
 - After editing the Readme file, add a commit message (Added my name or it can be anything related to your commit) and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
 
-**4. Raise a Pull Request:**
+**4. Raise the Pull Request:**
 
 - Click `Pull Requests` option in your forked repository (which is the third option at the top of this page after the options `Code` and `Issues`).
 - Click the green New Pull Request button. This will prep the new pull request for you by auto-filling the base repository: base with 'Open-source-Practice: main' AND auto-filling your head repository: compare with your repository: main
